@@ -96,3 +96,5 @@ switch (luckyNumber) {
 adventurous ? console.log("Adventures are great") : console.log("How about we stay home?");
 
 
+
+
